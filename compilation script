@@ -1,5 +1,5 @@
 g++ -Wall server.cpp shell.cpp -o server -pthread
 g++ -Wall client.cpp -o client
 
-./server SAU ./server --interactive-mode
-./client SAU ./client --interactive-mode
+./server OR ./server --interactive-mode
+./client OR ./client --interactive-mode
